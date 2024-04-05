@@ -18,7 +18,10 @@ return (
     <div data-aos='fade-down-left' className='lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg:text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center'>
         <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white'>
         <h1 data-aos="fade-right" className="text-[52px] font-Semibold mb-8 leading-normal uppercase">Mi <span className='text-fuchsia-500'>portfolio</span></h1>
-        <p data-aos="fade-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia corrupti recusandae natus nulla enim dolorem doloremque delectus repellat harum quae aut odit minus qui iusto vel, sequi dicta. Laboriosam, atque.</p>
+        <p data-aos="fade-left">
+        Hola, soy Florencia Nuñez me desempeño en area de Innovacion y tecnologia me encuentro cursando el ultimo año de Diseño y Programacion Web, me desenvuelvo en soluciones digitales, tambien trabajo con herramientas de diseño.
+        
+        </p>
         <div className='flex mt-8 gap-2'>
             <div className='flx item-center justify-center'>
                 <div className='flex space-x-2'>

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Nav from './Components/Nav.jsx'
 import Banner from './Components/Banner.jsx'
-import About from './Components/About.jsx'
+import Sobremi from './Components/Sobremi.jsx'
 import Services from './Components/Services.jsx'
 import Projects from './Components/Projects.jsx'
 import Contact from './Components/Contact.jsx'
@@ -37,7 +37,7 @@ return (
         <div className="bg-slate-900">
                 <Nav/>
                 <Banner/>
-                <About/>
+                <Sobremi/>
                 <Services/>
                 <Projects/>
                 <Contact/>
