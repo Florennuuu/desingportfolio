@@ -3,12 +3,12 @@ import React from 'react'
 export const Services = () => {
   return (
     <div data-aos="fade-right" id="Services" className="p-20 flex flex-col items-center justyfy-center">
-      <h1 data-aos="fade-right" className="text-[52px] font-semibold mb-20 leading-normal uppercase text-fuchsia-500">Services</h1>
+      <h1 data-aos="fade-right" className="text-[52px] font-semibold mb-20 leading-normal uppercase text-fuchsia-500">Herramientas</h1>
       <div className="grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 justify-around gap-20"> 
-        <h2 data-aos="fade-up" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>html</h2>
-        <h2 data-aos="fade-down" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>css</h2>
+        <h2 data-aos="fade-up" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>Photoshop</h2>
+        <h2 data-aos="fade-down" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>Figma</h2>
         <h2 data-aos="fade-up" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>Javascript</h2>
-        <h2 data-aos="fade-down" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>React</h2>
+        <h2 data-aos="fade-down" className='text-[26px] flex items-center justify-center font-semibold text-fuchsia-800 rounded-3x1 h-36  w-44 border-2 border-fuchsia-800 b_glow'>XD</h2>
       </div>
     </div>
   )
